@@ -7,57 +7,18 @@
   <tr>
     <th>Number</th>
     <th>Question</th>
+    <th>Answer</th>
     <th>Difficulty</th>
     <th>Topic</th>
     <th>Language</th>
   </tr>
-  <tr>
-    <td>1</td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Two Sum</a></td>
-    <td>Easy</td>
-    <td>Array, Hash Table</td>
-    <td>Python</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td><a href="https://leetcode.com/problems/add-two-numbers/">Add Two Numbers</a></td>
-    <td>Medium</td>
-    <td>Linked List, Math</td>
-    <td>Python</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
-    <td>Medium</td>
-    <td>Hash Table, Two Pointers, String, Sliding Window</td>
-    <td>Python</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">Median of Two Sorted Arrays</a></td>
-    <td>Hard</td>
-    <td>Array, Binary Search, Divide and Conquer</td>
-    <td>Python</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a></td>
-    <td>Medium</td>
-    <td>String, Dynamic Programming</td>
-    <td>Python</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td><a href="https://leetcode.com/problems/zigzag-conversion/">ZigZag Conversion</a></td>
-    <td>Medium</td>
-    <td>String</td>
-    <td>Python</td>
-  </tr>
 <tr>
-<td>6</td>
-    <td><a href="https://leetcode.com/problems/zigzag-conversion/">ZigZag Conversion</a></td>
-    <td>Medium</td>
-    <td>String</td>
-    <td>Python</td>
+  <th>1768</th>
+<td><a href="https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75">Merge Strings Alternately</a></td>
+    <td><a href="https://github.com/dilshojon216/LeetCode75/blob/master/src/MergeStringsAlternately.java">My solution</a></td>
+    <th>Essay</th>
+    <th>Two Pointers, String</th>
+    <th>Java</th>
 </tr>
+ 
   </table>
