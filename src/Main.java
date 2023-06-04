@@ -3,6 +3,7 @@ public class Main {
         // leetcode top 75 target
 
         // leetcode 1768 essay
+        // leetcode 1769 essay
         MergeStringsAlternately mergeStringsAlternately = new MergeStringsAlternately();
         mergeStringsAlternately.result();
 
