@@ -53,4 +53,11 @@
     <td>String</td>
     <td>Python</td>
   </tr>
+<tr>
+<td>6</td>
+    <td><a href="https://leetcode.com/problems/zigzag-conversion/">ZigZag Conversion</a></td>
+    <td>Medium</td>
+    <td>String</td>
+    <td>Python</td>
+</tr>
   </table>
