@@ -7,5 +7,8 @@ public class Main {
         MergeStringsAlternately mergeStringsAlternately = new MergeStringsAlternately();
         mergeStringsAlternately.result();
 
+        GreatestCommonDivisorOfStrings greatestCommonDivisorOfStrings = new GreatestCommonDivisorOfStrings();
+        greatestCommonDivisorOfStrings.result();
+
     }
 }
