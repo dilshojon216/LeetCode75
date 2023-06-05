@@ -23,7 +23,7 @@
 
 <tr>
   <th>1071</th>
-<td><a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/964283392/?envType=study-plan-v2&envId=leetcode-75">Greatest Common Divisor of Strings</a></td>
+<td><a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75">Greatest Common Divisor of Strings</a></td>
     <td><a href="https://github.com/dilshojon216/LeetCode75/blob/master/src/GreatestCommonDivisorOfStrings.java">My solution</a></td>
     <th>Essay</th>
     <th>Math, String</th>
